@@ -38,7 +38,7 @@
 /******************************************************************************/
 /*            Cortex-M3 Processor Exceptions Handlers                         */
 /******************************************************************************/
-
+//shit
 /**
   * @brief  This function handles NMI exception.
   * @param  None
